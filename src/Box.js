@@ -29,7 +29,7 @@ return(
               </section>
           <div className="box-subContainer">
               <ul>
-                  <li><IconCheck /> Unlimited Websites</li> 
+                  <li><IconCheck />  Unlimited Websites</li> 
                   <li><IconCheck />  100$ data ownership</li> 
                   <li><IconCheck />  Email reports</li></ul> 
                   <button class className="submit-button">Start my trial</button>
