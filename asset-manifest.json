@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/http//Luis0830.github.io/Luis0830/Frontend-Mentor/static/css/main.c0d0a604.css",
-    "main.js": "/http//Luis0830.github.io/Luis0830/Frontend-Mentor/static/js/main.a894b6a3.js",
-    "index.html": "/http//Luis0830.github.io/Luis0830/Frontend-Mentor/index.html",
-    "main.c0d0a604.css.map": "/http//Luis0830.github.io/Luis0830/Frontend-Mentor/static/css/main.c0d0a604.css.map",
-    "main.a894b6a3.js.map": "/http//Luis0830.github.io/Luis0830/Frontend-Mentor/static/js/main.a894b6a3.js.map"
+    "main.css": "/Luis0830/Frontend-Mentor/static/css/main.c0d0a604.css",
+    "main.js": "/Luis0830/Frontend-Mentor/static/js/main.a894b6a3.js",
+    "index.html": "/Luis0830/Frontend-Mentor/index.html",
+    "main.c0d0a604.css.map": "/Luis0830/Frontend-Mentor/static/css/main.c0d0a604.css.map",
+    "main.a894b6a3.js.map": "/Luis0830/Frontend-Mentor/static/js/main.a894b6a3.js.map"
   },
   "entrypoints": [
     "static/css/main.c0d0a604.css",
