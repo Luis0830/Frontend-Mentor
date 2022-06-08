@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Luis0830/Frontend-Mentor/static/css/main.c0d0a604.css",
-    "main.js": "/Luis0830/Frontend-Mentor/static/js/main.a894b6a3.js",
-    "index.html": "/Luis0830/Frontend-Mentor/index.html",
-    "main.c0d0a604.css.map": "/Luis0830/Frontend-Mentor/static/css/main.c0d0a604.css.map",
-    "main.a894b6a3.js.map": "/Luis0830/Frontend-Mentor/static/js/main.a894b6a3.js.map"
+    "main.css": "/Frontend-Mentor/static/css/main.c0d0a604.css",
+    "main.js": "/Frontend-Mentor/static/js/main.38a65771.js",
+    "index.html": "/Frontend-Mentor/index.html",
+    "main.c0d0a604.css.map": "/Frontend-Mentor/static/css/main.c0d0a604.css.map",
+    "main.38a65771.js.map": "/Frontend-Mentor/static/js/main.38a65771.js.map"
   },
   "entrypoints": [
     "static/css/main.c0d0a604.css",
-    "static/js/main.a894b6a3.js"
+    "static/js/main.38a65771.js"
   ]
 }
